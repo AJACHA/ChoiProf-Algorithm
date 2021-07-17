@@ -32,4 +32,4 @@
 회차        |  날짜 | 강의 내용  |숙제
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:  
 1차| 210706(화)    | 알고리즘 개요 : 효율성, 분석, Order | ✖️ |
-2차| 210711(일)    | Divide and Conquer(분할정복) | [백준 1182번 : 부분 수열의 합](https://www.acmicpc.net/problem/1182)</br> [백준 11729번 : 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)</br> [백준 6549번 : 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) |
+2차| 210711(일)    | Divide and Conquer(분할정복) | [백준 2751번 : 수 정렬하기 2](https://www.acmicpc.net/problem/2751)</br> [백준 11729번 : 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)</br> [백준 6549번 : 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) |
