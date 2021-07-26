@@ -25,7 +25,8 @@
 
 1차 210706(화) 22:00 - 23:30</br> 
 2차 210711(일) 22:00 - 23:00</br> 
-3차 210718(일) 22:00 - 23:30
+3차 210718(일) 22:00 - 23:30</br>
+4차 210725(일) 22:00 - 23:30</br> 
 </br> 
 
 
@@ -33,4 +34,5 @@
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:  
 1차| 210706(화)    | 알고리즘 개요 : 효율성, 분석, Order | ✖️ |
 2차| 210711(일)    | Divide and Conquer(분할정복) | [백준 2751번 : 수 정렬하기 2](https://www.acmicpc.net/problem/2751)</br> [백준 11729번 : 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)</br> [백준 6549번 : 히스토그램에서 가장 큰 직사각형](https://www.acmicpc.net/problem/6549) -> 이월|
-2차| 210718(일)    | Dynamic Programming(동적 프로그래밍) | [백준 1463번 : 1로 만들기](https://www.acmicpc.net/problem/1463)</br> [백준 9095번 : 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)</br> [백준 2579번번 : 계단 오르기](https://www.acmicpc.net/problem/2579)</br>|
+3차| 210718(일)    | Dynamic Programming(동적 프로그래밍) | [백준 1463번 : 1로 만들기](https://www.acmicpc.net/problem/1463)</br> [백준 9095번 : 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)</br> [백준 2579번 : 계단 오르기](https://www.acmicpc.net/problem/2579)</br>|
+4차| 210725(일)    | Dynamic Programming(동적 프로그래밍) | [백준 15486번 : 퇴사 2](https://www.acmicpc.net/problem/15486)</br> [백준 11726번 : 2×n 타일링](https://www.acmicpc.net/problem/11726)</br> [백준 11722번 : 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)</br>|
