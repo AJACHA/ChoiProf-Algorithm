@@ -40,3 +40,5 @@
 3차| 210718(일)    | Dynamic Programming(동적 프로그래밍) | [백준 1463번 : 1로 만들기](https://www.acmicpc.net/problem/1463)</br> [백준 9095번 : 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)</br> [백준 2579번 : 계단 오르기](https://www.acmicpc.net/problem/2579)</br>|
 4차| 210725(일)    | Dynamic Programming(동적 프로그래밍) | [백준 14501번 : 퇴사](https://www.acmicpc.net/problem/14501)</br> [백준 11726번 : 2×n 타일링](https://www.acmicpc.net/problem/11726)</br> [백준 11722번 : 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)</br>|
 5차| 210801(일)    | Greedy Algorithm(그리디) | [백준 11047번 : 동전 0](https://www.acmicpc.net/problem/11047)</br> [백준 1931번 : 회의실 배정](https://www.acmicpc.net/problem/1931)</br> [백준 4796번 : 캠핑](https://www.acmicpc.net/problem/4796)</br>|
+6차| 210808(일)    | Greedy Algorithm(그리디) | [백준 15652번 : N과 M(4)](https://www.acmicpc.net/problem/15652)</br> [백준 1182번 : 부분수열의 합](https://www.acmicpc.net/problem/1182)</br> [백준 9663번 : N-Queen](https://www.acmicpc.net/problem/9663)</br>|
+
