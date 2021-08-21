@@ -29,6 +29,7 @@
 4차 210725(일) 22:00 - 23:30</br> 
 5차 210801(일) 22:00 - 23:30</br> 
 6차 210808(일) 22:00 - 23:00</br>
+7차 210815(일) 22:00 - 23:00</br>
 
 </br> 
 
@@ -41,4 +42,5 @@
 4차| 210725(일)    | Dynamic Programming(동적 프로그래밍) | [백준 14501번 : 퇴사](https://www.acmicpc.net/problem/14501)</br> [백준 11726번 : 2×n 타일링](https://www.acmicpc.net/problem/11726)</br> [백준 11722번 : 가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)</br>|
 5차| 210801(일)    | Greedy Algorithm(그리디) | [백준 11047번 : 동전 0](https://www.acmicpc.net/problem/11047)</br> [백준 1931번 : 회의실 배정](https://www.acmicpc.net/problem/1931)</br> [백준 4796번 : 캠핑](https://www.acmicpc.net/problem/4796)</br>|
 6차| 210808(일)    | Greedy Algorithm(그리디) | [백준 15652번 : N과 M(4)](https://www.acmicpc.net/problem/15652)</br> [백준 1182번 : 부분수열의 합](https://www.acmicpc.net/problem/1182)</br> [백준 9663번 : N-Queen](https://www.acmicpc.net/problem/9663)</br>|
+7차| 210815(일)    | Backtracking(백트래킹) | [백준 1405번 : 미친로봇](https://www.acmicpc.net/problem/1405)</br> [백준 14927번 : 전구 끄기](https://www.acmicpc.net/problem/14927)</br> [백준 14939번 : 불 끄기](https://www.acmicpc.net/problem/14939)</br>|
 
